@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QueueDial</string>
+    <string name="start_calling">Start Calling</string>
+    <string name="add_contanct">Add Contanct</string>
 </resources>
